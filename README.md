@@ -2,7 +2,7 @@
 
 Como usar 
 
-cd terraform
-terraform init
-terraform plan
-terraform apply
+cd terraform <br> 
+terraform init <br> 
+terraform plan <br> 
+terraform apply <br> 
