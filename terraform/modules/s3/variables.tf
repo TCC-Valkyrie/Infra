@@ -7,5 +7,6 @@ locals {
     "bkt-valkyrie-raw-${local.id_conta}",
     "bkt-valkyrie-trusted-${local.id_conta}",
     "bkt-valkyrie-client-${local.id_conta}",
+    "bkt-valkyrie-modelos-${local.id_conta}"
   ]
 }

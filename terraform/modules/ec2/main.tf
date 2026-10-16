@@ -1,6 +1,6 @@
 resource "aws_instance" "ec2-valkyrie" {
-  ami           = "ami-0e86e20dae9224db8"
-  instance_type = "t2.medium"
+  ami           = "ami-0b6d9d3d33ba97d99"
+  instance_type = "t2.large"
   tags = {
     Name = "ec2-valkyrie"
   }
