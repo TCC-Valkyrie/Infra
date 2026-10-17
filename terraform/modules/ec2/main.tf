@@ -7,7 +7,7 @@ resource "aws_instance" "ec2-valkyrie" {
 
   ebs_block_device {
     device_name = "/dev/sda1"
-    volume_size = 15
+    volume_size = 50
     volume_type = "gp3"
   }
 
